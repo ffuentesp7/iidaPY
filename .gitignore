@@ -1,3 +1,4 @@
 **/Input/
 **/Output/
 *.txt
+**/__pycache__/
